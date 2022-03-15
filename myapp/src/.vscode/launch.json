@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/WEB/bin/Debug/net6.0/plataforma.noticias.web.dll",
+            "program": "${workspaceFolder}/WEB/bin/Debug/net5.0/plataforma.noticias.web.dll",
             "args": [],
             "cwd": "${workspaceFolder}/WEB",
             "stopAtEntry": false,
